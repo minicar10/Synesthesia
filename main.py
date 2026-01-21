@@ -1,3 +1,7 @@
+"""
+Entry point for the Synesthesia Spotify-Wyze integration.
+Coordinates Spotify polling and Wyze lighting control.
+"""
 import os
 import requests
 from spotipy import Spotify

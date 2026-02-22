@@ -1,6 +1,7 @@
 # API Interactions
 requests>=2.31.0
 spotipy>=2.23.0
+wyze-sdk>=1.9.0
 
 # Image Processing
 Pillow>=10.0.0
@@ -8,3 +9,4 @@ numpy>=1.26.0
 
 # Environment Management
 python-dotenv>=1.0.0
+setuptools>=68.0.0
